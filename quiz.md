@@ -34,7 +34,7 @@ b) Lägger filen i staging area (markerar den för nästa commit)
 c) Tar bort filen från projektet
 
 d) Skapar en ny commit
-
+```
 
 <details>
 <summary>✅ Facit</summary>
