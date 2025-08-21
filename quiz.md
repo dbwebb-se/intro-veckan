@@ -41,6 +41,7 @@ d) Skapar en ny commit
 <b>b) Lägger filen i staging area</b>  
 `git add` betyder att du markerar vilka filer som ska sparas i nästa commit.
 </details>
+
 ---
 
 ❓ Fråga 3: Commit
@@ -65,6 +66,7 @@ d) Ingenting händer utan git push
 <b>a) En ny version skapas lokalt</b>  
 Commits sparar en snapshot av ditt arbete på din dator.
 </details>
+
 ---
 
 ❓ Fråga 4: Push
@@ -85,6 +87,7 @@ d) git pull origin main
 <b>c) git push origin main</b>  
 Detta skickar dina commits till fjärrlagret på GitHub i grenen <code>main</code>.
 </details>
+
 ---
 
 ❓ Bonus: Rätt ordning
@@ -120,4 +123,5 @@ Sätt kommandona i rätt ordning när du jobbar med ett projekt:
 
 </details>
 ```
+
 ---
