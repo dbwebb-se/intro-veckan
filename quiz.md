@@ -1,4 +1,4 @@
-Perfekt 🙌 Här är quizet i ren Markdown så att du kan klistra in det i e# 📝 Git Quiz
+# 📝 Git Quiz
 
 Ett quiz om `clone`, `add`, `commit` och `push`.
 
