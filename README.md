@@ -31,7 +31,7 @@ Du skapar en snapshot med en loggtext som beskriver förändringen.
 
 ## Uppdatera repot på GitHub (remote)
 
-Du uppdaterar repot remote på GitHub. 
+Lärarna visar hur de uppdaterar repot remote på GitHub eftersom GitHub inte tillåter att alla uppdaterar. Du testar "git push" i nästa övning där du skapar ett eget repo.
 
 **git push**
 
