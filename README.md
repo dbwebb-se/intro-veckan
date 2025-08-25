@@ -7,7 +7,7 @@ Bilden nedan visar flödet mellan ditt lokala Git-repo och GitHub.
 
 ![git flow](./0_workflow_git.png)
 
-<i>Källa: https://biostats-r.github.io/biostats/github/1_Git_Tutorial.html</i>
+<i>Källa: https://biostats-r.github.io/biostats/github/1_Git_Tutorial.html#fig-workflow</i>
 
 ## Klona ett repo
 
