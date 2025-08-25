@@ -3,6 +3,8 @@
 
 Detta repo används på en introduktion till Git, som hålls i introveckan. 
 
+![git flow](./0_workflow_git.png)
+
 ## Klona ett repo
 
 Du skapar en lokal kopia av ett repo. 
