@@ -3,6 +3,8 @@
 
 Detta repo används på en introduktion till Git, som hålls i introveckan. 
 
+Bilden nedan visar flödet mellan ditt lokala Git-repo och GitHub.
+
 ![git flow](./0_workflow_git.png)
 
 ## Klona ett repo
